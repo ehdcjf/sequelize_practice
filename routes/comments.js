@@ -42,3 +42,4 @@ router.route('/:id')
   });
 
 module.exports = router;
+// 에러에 대해서 fun하고 cool하고 sexy하게 대처해야한다.
